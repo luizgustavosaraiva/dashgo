@@ -1,5 +1,6 @@
 {
   "name": "dashgo",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -8,7 +9,6 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@chakra-ui/core": "^0.8.0",
     "@chakra-ui/react": "^1.7.2",
     "@emotion/react": "11",
     "@emotion/styled": "11",
